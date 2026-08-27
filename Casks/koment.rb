@@ -1,6 +1,6 @@
 cask "koment" do
-  version "0.1.1"
-  sha256 "bce72ed5d1b27db878fb9b164392639e8aae31427705843edb1d8d7a5c4730ea"
+  version "0.1.2"
+  sha256 "b34ae54cb61f0cc0899fc2aa80af2e2cd9dbafccd673c75675e8231b09acf99e"
 
   url "https://github.com/nandzz/koment/releases/download/v#{version}/Koment-#{version}.dmg"
   name "Koment"
